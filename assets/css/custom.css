@@ -1,3 +1,13 @@
 #logo{
     width: 100px !important;
 }
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar li{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+}
